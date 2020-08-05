@@ -1,0 +1,12 @@
+.photo{
+    width: 100%;
+}
+
+.gallery{
+    width: 50%;
+}
+
+.thumbnail{
+    width: 30%;
+    margin-right: 2%
+}
